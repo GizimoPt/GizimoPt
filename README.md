@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GizimoPt
+- 👋 Hi, I’m Kevin 
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything python
