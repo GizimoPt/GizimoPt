@@ -2,9 +2,5 @@
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything python
-- 📫 How to reach me www.linkedin.com/in/kevin-sampaio-3280aa297
-
-<!---
-GizimoPt/GizimoPt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me kevin.sampaio@hotmail.com
+- www.linkedin.com/in/kevin-sampaio-3280aa297
